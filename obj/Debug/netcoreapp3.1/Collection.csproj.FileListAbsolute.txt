@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\Collection\bin\Debug\netcoreapp3.1\Collection.exe
+C:\Users\Windows\source\repos\Collection\bin\Debug\netcoreapp3.1\Collection.deps.json
+C:\Users\Windows\source\repos\Collection\bin\Debug\netcoreapp3.1\Collection.runtimeconfig.json
+C:\Users\Windows\source\repos\Collection\bin\Debug\netcoreapp3.1\Collection.runtimeconfig.dev.json
+C:\Users\Windows\source\repos\Collection\bin\Debug\netcoreapp3.1\Collection.dll
+C:\Users\Windows\source\repos\Collection\bin\Debug\netcoreapp3.1\Collection.pdb
+C:\Users\Windows\source\repos\Collection\obj\Debug\netcoreapp3.1\Collection.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\Collection\obj\Debug\netcoreapp3.1\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\Collection\obj\Debug\netcoreapp3.1\Collection.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\Collection\obj\Debug\netcoreapp3.1\Collection.AssemblyInfo.cs
+C:\Users\Windows\source\repos\Collection\obj\Debug\netcoreapp3.1\Collection.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Collection\obj\Debug\netcoreapp3.1\Collection.dll
+C:\Users\Windows\source\repos\Collection\obj\Debug\netcoreapp3.1\Collection.pdb
+C:\Users\Windows\source\repos\Collection\obj\Debug\netcoreapp3.1\Collection.genruntimeconfig.cache
